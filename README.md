@@ -1,3 +1,3 @@
-# ScrimbaReact1
+# Scrimba React project one
 A simple react app created as part of scrimba react course project one. \
 App deployed using netlify and created using vite
